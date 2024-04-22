@@ -22,7 +22,7 @@ I'm a transitioning engineer, currently enhancing my data science skills at Scal
 ### Let's Connect
 
 For collaborations or to discuss potential projects, feel free to connect with me on LinkedIn:
-[Connect with me on LinkedIn](https://www.linkedin.com/in/yourprofile)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/nagendraerruboyana/)
 
 ## Contributing
 
